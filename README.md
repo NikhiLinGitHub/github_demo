@@ -2,4 +2,4 @@
 
 This is my first Git Repository.
 <br>
-Authot - Nikhil Mahato
+Authot - Nikhil Mahato (Apna College)
